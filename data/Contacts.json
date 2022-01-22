@@ -1,0 +1,15 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef1"
+            },
+            "Name": "John Doe",
+            "FirstName": "John",
+            "LastName": "Doe",
+            "LeadSource": "Web",
+            "AccountId": "@AccountRef1"
+        }
+    ]
+}
